@@ -3,7 +3,6 @@ package recursion;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-import java.util.TreeSet;
 
 public class SumItUp {
 	public static void main(String[] args) {
